@@ -1,0 +1,3 @@
+tc 02
+reggration test
+smoke test
